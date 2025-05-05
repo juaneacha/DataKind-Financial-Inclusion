@@ -32,7 +32,7 @@ Colombia is one of the most well-known countries in the world. Few are the natio
 ----
 ## Analysis:
 - Colombian Demographics
-    -  ![](Dashboard 1.png)
+    -  ![](Dashboard1.png)
 <p align="center">
  <a href="https://public.tableau.com/views/DataKind/ColombianDemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Full Graph</a>
 </p>
@@ -41,7 +41,7 @@ Most Colombians are somewhat evenly spread among the different departments in th
 
 
 - Financial Products Usage In Colombia
-   -  ![](Dashboard 2.png)
+   -  ![](Dashboard2.png)
 <p align="center">
  <a href="https://public.tableau.com/views/DataKind/FinancialProductsUsageDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Full Graph</a>
 </p>
@@ -49,7 +49,7 @@ Most Colombians are somewhat evenly spread among the different departments in th
 Colombia offers 7 financial products, but most of its citizens do not use them. In fact, over 65% of Colombians (191244 out of 290968) do not use financial products. One of the reasons for this might be that Colombians tend to buy goods in cash. Moreover, many lack the resources to apply for purchasing loans or credit cards, and when they do, they opt for savings accounts as their only financial product
  
 - Average Number of Products Used Per Income Bracket
-  - ![](Final Graph.png)
+  - ![](FinalGraph.png)
 <p align="center">
  <a href="https://public.tableau.com/views/DataKind/Avg_NumberOfProductsUsePerIncomeBracket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Full Graph</a>
 </p>
