@@ -32,7 +32,7 @@ Colombia is one of the most well-known countries in the world. Few are the natio
 ----
 ## Analysis:
 - Colombian Demographics
-    -  ![](Dashboard 1.png)
+    -  ![](Dashboard1.png)
 <p align="center">
  <a href="https://public.tableau.com/views/DataKind/ColombianDemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Full Graph</a>
 </p>
